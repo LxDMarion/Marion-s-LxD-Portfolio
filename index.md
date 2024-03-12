@@ -9,7 +9,7 @@ But, first, why would you want to explore my portfolio?
 
 <h2>About me</h2>
 
-I am an experience educator and writer with 10+ years of experience designing and facilitating in-person and online learning in the education and humanitarian sectors.<br>
+I am an experienced educator and writer with 10+ years of experience designing and facilitating in-person and online learning in the education and humanitarian sectors.<br>
 
 My goal has always been to collaborate with others and bring out the best in people and situations, whether I have been based in Cape Town, Winnipeg, La Ceiba—Honduras, Mexico City, or Bucaramanga and Cali—Colombia.<br>
 
