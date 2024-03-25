@@ -1,0 +1,19 @@
+---
+title: My Learning Design Approach
+date: 2024-03-25
+---
+## Introduction
+As I approach a learning design, I am always thinking about how to design for:
+1. The realities of the learner;
+2. The demands of the content; and
+3. The needs of the production and implementation teams.
+
+In the next section, I describe the principles that I apply while designing with these three aspects front of mind.
+
+## Principles Regarding the Learner's Reality
+One of the best ways for learners and educators to be partners on a learning journey is to take the learner's reality into account and design accordingly. Content must be accessible, inclusiive, and respond to how learners learn best.
+
+### Accessibility
+- Accessibility means designing for the hardware learners have access to, as well as their internet and data access.
+  - For example, given the historical context in South Africa, it is likely reasonable to assume that learners will often access the learning management system via mobile phones. Therefore, the user interface must use responsive web design to be mobile-compatible.
+  - Unless they are able to do some of their learning at work, learners are likely using their own data. Streaming videos and interactive content can be slow and use a lot of data. HD resolution should be avoided to speed up the download times and economise data usage. Also, where alternative activities and elements can be used equally well, they should replace data-heavy elements. Use gifs in palce of screencasts as one example.
