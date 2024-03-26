@@ -3,9 +3,13 @@ title: Marion's Learning Experience Design Portfolio
 ---
 Welcome to my learning experience design portfolio. Here you’ll get an idea of the range of my skills and how I think about designing learning. In this portfolio, I link you to a learning asset, and use contextual copy to expand on my design decisions: why and how the decisions could support certain kinds of learning.
 
-You can navigate this portfolio by selecting the “next” button at the end of each page, or by choosing an asset from the left sidebar. Right-click on links to open them in a new tab.
 
-But, first, why would you want to explore my portfolio?
+Welcome to my learning experience design portfolio. Here you’ll get an idea of the range of my skills and how I think about designing learning. In this portfolio, I link you to a learning asset, and use contextual copy to expand on my design decisions: why and how the decisions could support certain kinds of learning.<br>
+
+You can navigate this portfolio by selecting the “next” button at the end of each page, or by choosing an asset from the left sidebar. Right-click on the links to open them in a new browser tab.<Br>
+
+But, first, why would you want to explore my portfolio?<br>
+
 
 <h2>About me</h2>
 
@@ -24,6 +28,7 @@ Not a day goes by without research and writing in English, Afrikaans, or Spanish
 + Team policies, procedures, and templates<Br>
 
 **Personal projects**
+
 + Reviews of professional and personal development books for my [blog](https://goodnbadhowto.com "The good, the bad, the how to")<br>
 + Quirky or serious stories, like “Daily Bread” that reached the second round of judging, and was in the top 7 percent of short stories submitted to the 2023 Bridport Prize<br>
 
